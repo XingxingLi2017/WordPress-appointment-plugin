@@ -1,2 +1,2 @@
 # WordPress-appointment-plugin
-a WordPress plugin which can add scheduling appointment  function
+a WordPress plugin which can schedule customized appointments.
