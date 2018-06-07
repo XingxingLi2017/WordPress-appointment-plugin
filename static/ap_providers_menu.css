@@ -1,0 +1,55 @@
+.providers_list,
+.provider_appt_type_list,
+.providers_list tr th,
+.providers_list tr td,
+.provider_appt_type_list tr th,
+.provider_appt_type_list tr td{
+    border:1px solid #000
+}
+.providers_list,
+.provider_appt_type_list{
+    text-align: center;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+.providers_list tr th,
+.providers_list tr td,
+.provider_appt_type_list tr th,
+.provider_appt_type_list tr td{
+    padding: 5px;
+}
+
+.providers_list .providers_list_tr_inactive,
+.provider_appt_type_list .provider_appt_type_list_tr_inactive{
+    color: #aaa;
+}
+
+.edit_provider_dialog_input,
+.edit_provider_dialog_select{
+    width: 80%;
+}
+
+.provider_timeslot_list,
+.provider_timeslot_list tr th,
+.provider_timeslot_list tr td{
+    border:1px solid #000
+}
+.provider_timeslot_list{
+    text-align: center;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+.provider_timeslot_list tr th,
+.provider_timeslot_list tr td{
+    padding: 5px;
+}
+
+.provider_timeslot_list tr td{
+    height: 30px;
+}
+
+.options-div{
+    margin-right: 20px;
+}
